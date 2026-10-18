@@ -28,7 +28,7 @@ This repo maps the following 300-745 domains into practical Azure implementation
 
 ```powershell
 # Clone the repo
-git clone https://github.com/koate-kpai/azure-security-lab.git
+git clone https://github.com/koatedevopskpai/azure-security-lab.git
 cd azure-security-lab
 
 # Navigate to a module
