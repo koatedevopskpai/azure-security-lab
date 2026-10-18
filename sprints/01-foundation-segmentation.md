@@ -10,7 +10,7 @@
 | 1.2 Shared modules | ✅ Complete | `shared/scripts/cleanup.ps1`, `shared/templates/module-scaffold.md` |
 | 1.3 Azure Terraform IaC | 📋 Planned | `terraform/*.tf` — VNet, subnets, NSGs, route tables, NAT Gateway, bastion |
 | 1.4 Azure docs | 📋 Planned | Architecture guide, cost analysis, guided walkthrough |
-| 1.5 Git repository | 📋 Planned | Initialize git, commit, push to `github.com/koate-kpai/azure-security-lab` |
+| 1.5 Git repository | 📋 Planned | Initialize git, commit, push to `github.com/koatedevopskpai/azure-security-lab` |
 
 ## Key Decisions Made
 
